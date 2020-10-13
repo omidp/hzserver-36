@@ -21,7 +21,7 @@
         <eureka.client.version>1.8.6</eureka.client.version>
         <archaius.core>0.7.5</archaius.core>
 
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 
 	</properties>
 
